@@ -1,38 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 
+I have created a dashboard using React and Next.js, allowing users to fully manage their website. It includes various charts for sales, visits, or user counts, as well as a comprehensive display of users' monthly activities. Additionally, there is a blog management page where users can add, edit, or delete posts.
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+##
+![Annotation 2024-02-12 134505](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/976b531f-95f9-412d-ba25-83e8d4c20ba4)
+##
+![Annotation 2024-02-12 134540](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/3786d606-3521-4e0c-87a2-ef2fb1641d73)
+##
+![Annotation 2024-02-12 134441](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/63e3b25d-3c82-430b-b368-72285e8054c8)
+##
+![Annotation 2024-02-12 134411](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/0400fb11-cdff-41b3-9fb3-9bc2cd34c91f)
+##
+![Annotation 2024-02-12 134540](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/877cbbd4-0f62-4838-aad6-0a5f60d31735)
+##
+![Annotation 2024-02-12 134346](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/a0a46e13-8626-460f-bac5-5e3770e929cd)
