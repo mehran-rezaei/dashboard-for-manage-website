@@ -1,5 +1,6 @@
 ## 
-I have created a dashboard using React and Next.js, allowing users to fully manage their website. It includes various charts for sales, visits, or user counts, as well as a comprehensive display of users' monthly activities. Additionally, there is a blog management page where users can add, edit, or delete posts.
+I have created a dashboard using React and Next.js, allowing users to fully manage their website. It includes various charts for sales, visits, or user counts, as well as a comprehensive display of users' monthly activities. Additionally, there is a blog management page where users can add, edit, or delete posts. This website is built using Next.js, React, TypeScript, and Tailwind CSS
+
 
 ##
 ![Annotation 2024-02-12 134505](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/976b531f-95f9-412d-ba25-83e8d4c20ba4)
