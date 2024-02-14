@@ -11,6 +11,4 @@ I have created a dashboard using React and Next.js, allowing users to fully mana
 ##
 ![Annotation 2024-02-12 134411](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/0400fb11-cdff-41b3-9fb3-9bc2cd34c91f)
 ##
-![Annotation 2024-02-12 134540](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/877cbbd4-0f62-4838-aad6-0a5f60d31735)
-##
 ![Annotation 2024-02-12 134346](https://github.com/mehran-rezaei/dashboard-for-manage-website/assets/110059221/a0a46e13-8626-460f-bac5-5e3770e929cd)
